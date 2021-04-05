@@ -14,3 +14,6 @@
 
 [作业3链接](https://alan757.github.io/%E4%BD%9C%E4%B8%9A3.html)
 ## 作业4
+用横轴可滑动的柱状图、折线图和两者的综合绘制了一个组合的page
+
+[作业4链接](https://alan757.github.io/%E4%BD%9C%E4%B8%9A4.html)
