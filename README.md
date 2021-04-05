@@ -12,5 +12,5 @@
 ## 作业3
 在地图中设色描绘了2019年浙江人口分布图
 
-[作业3链接]([作业2链接](https://alan757.github.io/%E4%BD%9C%E4%B8%9A2.html))
+[作业3链接](https://alan757.github.io/%E4%BD%9C%E4%B8%9A2.html)
 ## 作业4
