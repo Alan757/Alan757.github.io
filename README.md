@@ -4,7 +4,7 @@
 ## 作业1
 天龙八部人物“共现”词频关系图
 
-[作业1链接](https://alan757.github.io/关系图-分类-天龙八部人物.html)
+[作业1链接](https://alan757.github.io/天龙八部.html)
 ## 作业2
 搜狗搜索html
 
